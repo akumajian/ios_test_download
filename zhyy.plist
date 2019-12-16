@@ -13,13 +13,13 @@
                     <key>url</key>
                     <string>http://gd.zhidao.189.cn:9001/files/com.gdtel.gd10000zhyy.ipa</string>
                 </dict>
-                <dict>
+               <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string></string>
+                    <string>https://gd.189.cn/ishop/ipaDownload/zhyy_58x58.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string></string>
+                    <string>https://gd.189.cn/ishop/ipaDownload/zhyy_1024x1024.png</string>
                 </dict>
             </array>
             <key>metadata</key>
