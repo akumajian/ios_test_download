@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://gd.zhidao.189.cn:9001/files/com.gdtel.gd10000zhyy.ipa</string>
+                    <string>http://xxx/files/xxx.ipa</string>
                 </dict>
                <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://gd.189.cn/ishop/ipaDownload/zhyy_58x58.png</string>
+                    <string>https://xxx/zhyy_58x58.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,19 +27,19 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://gd.189.cn/ishop/ipaDownload/zhyy_1024x1024.png</string>
+                    <string>https://xxxx/zhyy_1024x1024.png</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.gdtel.gd10000zhyy</string>
+                <string>xxxx</string>
                 <key>bundle-version</key>
                 <string>1.0.0.20190123_Beta</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>智慧万号</string>
+                <string>xxx</string>
             </dict>
         </dict>
     </array>
